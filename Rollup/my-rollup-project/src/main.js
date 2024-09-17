@@ -1,7 +1,7 @@
 import foo from './foo'
-import {version} from '../package.json'
+import { version } from '../package.json'
 
 export default function () {
-    console.log(foo)
-    console.log(version)
+	console.log(foo)
+	console.log(version)
 }
