@@ -1,0 +1,16 @@
+{
+  "name": "concepts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "raw-loader": "^4.0.2",
+    "terser-webpack-plugin": "^5.3.10"
+  }
+}
